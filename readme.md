@@ -3,7 +3,7 @@
 
 **Log on to codeastro.com for more projects!**
 
-**Developed By Sumit Kumar**
+**Developed By ghada rabee**
 
 ## **Instructions**
 - Install the Requirements: pip install -r requirements.txt
@@ -14,7 +14,7 @@
 For Admin Account, please create one with superuser!
 
 ------------------------------------------------------------
-- **Developed by:** Sumit Kumar
+- **Developed by:** ghada rabee
 - **Published @:** [https://codeastro.com/ecommerce-site-in-python-django-with-source-code/]
 ------------------------------------------------------------
 - **Customized by:** oretnom23
